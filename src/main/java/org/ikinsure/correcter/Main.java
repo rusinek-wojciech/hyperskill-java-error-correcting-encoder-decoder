@@ -1,4 +1,4 @@
-package org.ikinsure.medium.correcter;
+package org.ikinsure.correcter;
 
 import java.io.*;
 import java.nio.file.Files;
